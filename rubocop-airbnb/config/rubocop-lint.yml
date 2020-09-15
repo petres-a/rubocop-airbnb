@@ -68,7 +68,7 @@ Lint/EmptyInterpolation:
 Lint/EmptyWhen:
   Enabled: false
 
-Lint/EndInMethod:
+Style/EndBloc:
   Description: END blocks should not be placed inside method definitions.
   Enabled: false
 
